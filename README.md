@@ -1,7 +1,7 @@
-# Welcome Guys !! It's about Me 🥹
-print('Hello World! 🌍')
+# Hello Guys !! It's about Me 🥹
+print('HelloWorld! 🌍')
 
-cout<<I'm Harsh Bhardwaj, a passionate Third-year Computer Science student at SRM Institute of Science and Technology👨🏻‍🎓
+cout<<"I'm Harsh Bhardwaj, a passionate Third-year Computer Science student at SRM Institute of Science and Technology,Kattankulathur👨🏻‍🎓"
 
 As a dedicated programmer, my journey revolves around creating innovative solutions and pushing the boundaries of technology.
 
