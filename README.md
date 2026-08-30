@@ -1,227 +1,357 @@
-# 👋 Hey, I'm Harsh Bhardwaj
+# 👋 Hi, I'm Harsh Bhardwaj
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Undergraduate;Full-Stack+Developer;Data+Analytics+%26+ML+Enthusiast;Cloud+%26+AI+Explorer;Always+Building%2C+Learning+%26+Improving" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Harsh12bhardwaj">
+    <img src="https://komarev.com/ghpvc/?username=Harsh12bhardwaj&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/Harsh12bhardwaj?tab=followers">
+    <img src="https://img.shields.io/github/followers/Harsh12bhardwaj?label=Followers&style=flat" alt="GitHub Followers"/>
+  </a>
+</p>
+
+---
+
+## 🧑‍💻 About Me
 
 ```cpp
-cout << "Hello World! 🌍";
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello World! 🌍" << endl;
+    cout << "I'm Harsh Bhardwaj — a Computer Science undergraduate." << endl;
+    return 0;
+}
 ```
 
-🎓 **B.Tech Computer Science & Engineering @ SRM Institute of Science and Technology**
+🎓 **B.Tech Computer Science & Engineering** at SRM Institute of Science and Technology
 📅 **Graduating 2027** | 📊 **CGPA: 9.02/10**
-💻 **Full-Stack Developer | Data Analytics & ML Enthusiast | Cloud & AI**
+💻 **Full-Stack Developer | Data Analytics & ML Enthusiast | Cloud & AI Explorer**
 
-I’m a Computer Science undergraduate passionate about building **scalable software, data-driven applications, and intelligent systems**.
+I'm a Computer Science undergraduate who enjoys building **scalable applications, data-driven systems, and intelligent solutions**.
 
-My interests span **full-stack development, data analytics, machine learning, cloud computing, and system design**. I enjoy taking an idea from concept to deployment — designing the architecture, building the application, working with data, and turning it into something people can actually use.
+My interests span **full-stack development, data analytics, machine learning, cloud computing, cybersecurity, and system design**.
 
-Currently, I'm focused on strengthening my **DSA, SQL, system design, full-stack development, and machine learning** skills while building projects that solve practical problems.
+I enjoy working across the complete development lifecycle — from understanding a problem and designing the solution to building, testing, deploying, and improving it.
 
-🚀 **Build. Learn. Experiment. Improve.**
+```text
+💡 Learn        →        🛠️ Build        →        📊 Analyse        →        🚀 Deploy
+```
 
----
-
-## 💫 About Me
-
-* 🎓 B.Tech CSE student at **SRMIST Kattankulathur**
-* 📈 **9.02/10 CGPA**
-* 💻 Experienced in **Full-Stack Development, Data Analytics & Machine Learning**
-* ☁️ Interested in **Cloud Computing, AI/ML & scalable systems**
-* 🧠 Practicing **DSA, SQL & problem solving**
-* 🔐 Built projects involving **Cybersecurity & Android Privacy Risk Detection**
-* 📊 Experienced with **Power BI, Python, SQL & data visualization**
-* 🏗️ Enjoy building applications from **system design → development → deployment**
-* 🏋️ Outside technology, I enjoy **fitness and maintaining a healthy lifestyle**
+Currently, I'm strengthening my **DSA, SQL, full-stack development, machine learning, and system design** skills while building practical projects.
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 What I Work With
 
-### 👨‍💻 Programming Languages
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🌐 Full-Stack Development
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+* React.js
+* Next.js
+* Node.js
+* Express.js
+* Flask
+* REST APIs
+* HTML / CSS
+* Tailwind CSS
+* MongoDB
+* PostgreSQL
+* MySQL
 
-### 🗄️ Databases & Backend
+</td>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
+<td width="50%" valign="top">
 
 ### 🤖 Data & Machine Learning
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+* Python
+* Pandas
+* NumPy
+* Scikit-learn
+* XGBoost
+* Data Analysis
+* Data Visualization
+* Feature Engineering
+* Statistical Modeling
+* Time Series Forecasting
 
-**Areas:**
-Data Analysis • Data Visualization • Feature Engineering • Statistical Modeling • Time Series Forecasting • Machine Learning • Business Analytics
+</td>
+</tr>
 
-### ☁️ Cloud, DevOps & Tools
+<tr>
+<td width="50%" valign="top">
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+### ☁️ Cloud & DevOps
 
-**Also:** SAP BTP • REST APIs • TCP/IP • DNS • HTTP/HTTPS • Agile/Scrum
+* AWS
+* Microsoft Azure
+* Docker
+* Vercel
+* Supabase
+* Git
+* GitHub
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔐 Other Interests
+
+* Cybersecurity
+* Static Code Analysis
+* Computer Networks
+* Cloud Security
+* Business Analytics
+* Financial Analytics
+* SAP BTP
+* Agile / Scrum
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,php" />
+</p>
+
+### Frontend & Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,html,css,tailwind" />
+</p>
+
+### Databases & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,aws,azure,docker,vercel" />
+</p>
+
+### Data & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 
 ---
 
 # 💼 Experience
 
-### 🏢 Bharat Electronics Limited — Software Development Intern
+## 🏢 Bharat Electronics Limited
 
-**Jun 2025 – Jul 2025 | Ghaziabad**
+**Software Development Intern**
+`Jun 2025 – Jul 2025`
 
 * Developed a **GUI-based real-time radar antenna control application**.
-* Implemented **UDP-based communication** for reliable data exchange between control and monitoring modules.
-* Designed networking components for **antenna rotation and steering control** using socket programming and protocol handling.
-* Worked with real-time communication concepts and systems-oriented software development.
+* Implemented **UDP-based communication protocols** for reliable data exchange.
+* Designed networking components for antenna rotation and steering control.
+* Applied socket programming, protocol handling, and real-time communication concepts.
 
-### 🏢 Zidio Development — Web Development Intern
+---
 
-**Aug 2025 – Nov 2025 | Remote**
+## 🏢 Zidio Development
+
+**Web Development Intern**
+`Aug 2025 – Nov 2025`
 
 * Built and scaled a **MERN-stack collaborative content management platform**.
 * Implemented **role-based access control** and REST API integration.
 * Designed the platform to support **200+ concurrent users**.
-* Improved the publishing workflow, reducing publishing time by approximately **70%**.
+* Reduced publishing time by approximately **70%**.
 
 ---
 
-# 🚀 Featured Projects
+# 🌟 Featured Projects
 
-### 🔗 Aures — Professional Profile SaaS
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Next.js • Symfony • PHP • PostgreSQL • Azure • Supabase**
+## 🔗 Aures
 
-A live SaaS platform that allows professionals to consolidate multiple resumes and portfolios into a **single auto-updating profile accessible through a unique URL**.
+**Next.js • Symfony • PostgreSQL • Azure • Supabase**
 
-* Architected and deployed the platform end-to-end.
-* Designed an auto-updating professional profile system.
-* Reduced manual resume/portfolio update effort by approximately **90%**.
+A live SaaS platform allowing professionals to consolidate multiple resumes and portfolios into a **single auto-updating profile** accessible through a unique URL.
 
----
+**Highlights**
 
-### 📊 Pharma Sales Forecasting
+* Full-stack SaaS architecture
+* Auto-updating professional profile
+* Cloud deployment
+* Reduced manual update effort by **90%**
 
-**Python • Pandas • Flask • Prophet • ARIMA • Data Visualization**
+</td>
 
-A pharmaceutical sales forecasting system for predicting product demand across regions and categories.
+<td width="50%" valign="top">
 
-* Analysed historical time-series sales data.
-* Performed preprocessing, feature engineering, trend decomposition and seasonality analysis.
-* Implemented **Prophet and ARIMA** forecasting models.
-* Built interactive dashboards to visualize sales performance and forecast trends.
+## 📊 Pharma Sales Forecasting
 
----
+**Python • Pandas • Flask • Prophet • ARIMA**
 
-### 🔐 Hybrid Privacy Risk Detection
+A pharmaceutical sales forecasting system designed to predict product demand across regions and categories.
 
-**Python • Machine Learning • Static Code Analysis • XGBoost • Random Forest • REST APIs**
+**Highlights**
 
-A hybrid Android privacy-risk analytics system combining **static code analysis and machine learning**.
+* Historical time-series analysis
+* Feature engineering
+* Trend & seasonality analysis
+* Prophet & ARIMA forecasting
+* Interactive dashboards
 
-* Classified Android applications into **Low, Medium and High privacy-risk categories**.
-* Combined static analysis features with ML-based risk prediction.
-* Built an interactive dashboard for permissions, suspicious APIs and privacy-risk scores.
-* Focused on explainable, data-driven threat analysis.
+</td>
+</tr>
 
----
+<tr>
+<td width="50%" valign="top">
 
-### 📈 Mutual Fund Portfolio Analytics Dashboard
+## 🔐 Hybrid Privacy Risk Detection
 
-**Python • Pandas • Power BI • Excel • Scikit-learn**
+**Python • ML • Static Analysis • XGBoost • Random Forest**
+
+A hybrid Android privacy-risk analytics system combining static code analysis with machine learning.
+
+**Highlights**
+
+* Low / Medium / High risk classification
+* Static code analysis
+* ML-based risk prediction
+* Suspicious API analysis
+* Explainable threat dashboard
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📈 Mutual Fund Analytics
+
+**Python • Pandas • Power BI • Excel**
 
 An investment analytics dashboard analysing **2,500+ mutual fund schemes**.
 
-* Compared funds across categories, returns, expense ratios and risk metrics.
-* Built dynamic Power BI dashboards with KPI cards, filters and visualizations.
-* Delivered actionable insights into fund performance and category trends.
+**Highlights**
 
----
+* Fund comparison
+* Risk & return analysis
+* Expense-ratio analysis
+* Dynamic Power BI dashboards
+* KPI-driven insights
 
-### 📝 Blogging Platform
+</td>
+</tr>
 
-**Java • React.js • Node.js • Express.js • MongoDB • MySQL**
+<tr>
+<td width="50%" valign="top">
 
-A scalable content publishing and blogging platform.
+## 📝 Blogging Platform
 
-* Built support for **200 authors**.
-* Developed RESTful backend services.
-* Optimized React components and backend architecture.
-* Reduced page-load times by approximately **60%**.
+**Java • React.js • Node.js • Express • MongoDB • MySQL**
 
----
+A scalable content publishing platform designed to support **200 authors**.
 
-### 🗺️ Urbanscale — Smart India Hackathon
+**Highlights**
 
-**React.js • Node.js • Express.js • MongoDB**
+* RESTful backend
+* React frontend
+* MongoDB & MySQL
+* Performance optimization
+* **60% reduction in page-load time**
 
-A full-stack recommendation platform that helps users choose destinations based on their preferences.
+</td>
 
-* Developed a recommendation engine scoring local amenities against user preferences.
-* Designed the application to simplify destination discovery.
-* Reduced user decision time by approximately **70%**.
+<td width="50%" valign="top">
 
----
+## 🗺️ Urbanscale
 
-### 📊 Excel Analytics Platform
+**React.js • Node.js • Express • MongoDB**
+
+A Smart India Hackathon project featuring a recommendation engine that scores local amenities against user preferences.
+
+**Highlights**
+
+* Full-stack architecture
+* Recommendation engine
+* Preference-based scoring
+* Reduced decision time by **70%**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 📊 Excel Analytics Platform
 
 **React.js • Python • Flask • Pandas**
 
-A full-stack analytics platform for ingesting Excel spreadsheets and generating real-time dashboards.
+A full-stack analytics platform that converts Excel spreadsheets into real-time dashboards.
 
-* Supports spreadsheets containing **5,000+ rows per upload**.
-* Built real-time data visualization workflows.
-* Achieved sub-200ms API latency.
-* Reduced analysis time by approximately **70%**.
+**Highlights**
+
+* 5,000+ rows per upload
+* Real-time visualization
+* Sub-200ms API latency
+* **70% reduction in analysis time**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💡 More Coming Soon...
+
+Always experimenting with new technologies, ideas and projects.
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 🏆 Certifications
 
-* 🟢 **AWS Certified Cloud Practitioner** — Amazon Web Services, 2026
-* 🟣 **SAP Certified Associate – SAP Generative AI Developer** — SAP, 2026
-* 🔵 **SAP Certified Back-End Developer – ABAP Cloud** — SAP, 2026
-* 🟠 **AWS Academy Graduate – Machine Learning Foundations** — AWS
-* 🟡 **AWS Academy Graduate – Data Engineering** — AWS
-* ☁️ **AWS Academy Graduate – Cloud Foundations** — AWS
-* 🤖 **Introduction to Machine Learning** — NPTEL
-* 🗄️ **Introduction to Database Systems** — NPTEL
-* ☕ **Programming in Java** — NPTEL
+| Certification                                            | Organization        | Year |
+| -------------------------------------------------------- | ------------------- | ---- |
+| ☁️ AWS Certified Cloud Practitioner                      | Amazon Web Services | 2026 |
+| 🤖 SAP Certified Associate – SAP Generative AI Developer | SAP                 | 2026 |
+| ☁️ SAP Certified Back-End Developer – ABAP Cloud         | SAP                 | 2026 |
+| 🧠 AWS Academy – Machine Learning Foundations            | AWS                 | 2025 |
+| 🗄️ AWS Academy – Data Engineering                       | AWS                 | 2025 |
+| ☁️ AWS Academy – Cloud Foundations                       | AWS                 | 2025 |
+| 🤖 Introduction to Machine Learning                      | NPTEL               | 2025 |
+| 🗄️ Introduction to Database Systems                     | NPTEL               | 2025 |
+| ☕ Programming in Java                                    | NPTEL               | 2024 |
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsh12bhardwaj&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh12bhardwaj&theme=dark&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh12bhardwaj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Harsh12bhardwaj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh12bhardwaj&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Harsh12bhardwaj&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -229,7 +359,15 @@ A full-stack analytics platform for ingesting Excel spreadsheets and generating 
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harsh12bhardwaj&theme=holi&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Harsh12bhardwaj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Harsh12bhardwaj/Harsh12bhardwaj/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
@@ -242,9 +380,15 @@ A full-stack analytics platform for ingesting Excel spreadsheets and generating 
   </a>
 </p>
 
+<p align="center">
+  <a href="https://leetcode.com/harsh12bhardwaj/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
 ---
 
-# 🌐 Connect With Me
+# 🌐 Let's Connect
 
 <p align="center">
 
@@ -270,8 +414,8 @@ A full-stack analytics platform for ingesting Excel spreadsheets and generating 
 
 <p align="center">
 
-### 💭 "Build things that matter. Keep learning. Keep improving."
+### 🚀 Building today. Learning every day. Engineering the future.
 
-⭐ **If you find my work interesting, consider giving my repositories a star!**
+**⭐ If you find something useful here, consider starring a repository!**
 
 </p>
