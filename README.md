@@ -356,21 +356,6 @@ Always experimenting with new technologies, ideas and projects.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harsh12bhardwaj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</p>
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Harsh12bhardwaj/Harsh12bhardwaj/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
 # 💻 LeetCode
 
 <p align="center">
