@@ -361,7 +361,6 @@ Always experimenting with new technologies, ideas and projects.
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Harsh12bhardwaj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </p>
-
 ---
 
 # 🐍 Contribution Snake
